@@ -1,1 +1,20 @@
+CORE QUERY:
+("polyhydroxyalkanoates" OR "PHA bioplastics")
+AND ("cost" OR "scalability" OR "commercialization")
+
+GENETIC ENGINEERING:
+("polyhydroxyalkanoates")
+AND ("genetic engineering" OR "metabolic engineering")
+
+SYNTHETIC BIOLOGY:
+("polyhydroxyalkanoates")
+AND ("synthetic biology" OR "CRISPR")
+
+WASTE SUBSTRATES:
+("polyhydroxyalkanoates")
+AND ("waste substrates" OR "agricultural waste" OR "industrial waste")
+
+DOWNSTREAM PROCESSING:
+("polyhydroxyalkanoates")
+AND ("downstream processing" OR "extraction" OR "recovery")
 
